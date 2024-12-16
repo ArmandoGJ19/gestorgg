@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backProyecto.iml" filepath="$PROJECT_DIR$/.idea/backProyecto.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/react-gg/react-e1900/.idea/react-e1900.iml" filepath="$USER_HOME$/WebstormProjects/react-gg/react-e1900/.idea/react-e1900.iml" />
+    </modules>
+  </component>
+</project>
